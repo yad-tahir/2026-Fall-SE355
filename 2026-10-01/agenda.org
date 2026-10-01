@@ -1,0 +1,9 @@
+* Network Programming - Part 1
+[Elliotte] Chapter 2
+
+- [X] Recap
+- [X] Sockets in OSs
+- [X] Java *Socket API*
+- [X] Input streams vs Output streams
+- [X] Demo
+- [X] Java IO API
