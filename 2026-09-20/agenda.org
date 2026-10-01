@@ -1,0 +1,9 @@
+* Introduction to Computation
+[Ajay] Chapter 1
+
+- [X] What is Computation?
+- [X] Abstract view on Computation.
+- [X] Execution Path and Execution Graph
+- [X] Finite State Automata
+- [X] Processes and Processors
+- [X] Progress and Time

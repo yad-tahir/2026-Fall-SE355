@@ -1,0 +1,11 @@
+* Parallel Computation
+[Ajay] Chapter 1
+
+- [X] Recap the last lecture
+- [X] Performance and Computation
+- [X] *Parallel* Computation
+- [X] Parallel Computation from an abstract view
+- [X] *Task Dependency* Requirements
+- [X] Multi-process Programming
+- [X] Flynn's Taxonomy
+- [X] Small Java demo

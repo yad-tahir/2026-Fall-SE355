@@ -1,0 +1,10 @@
+* Introduction to Distributed Computing
+[Ajay] Chapter 1
+
+- [X] Recap the last lecture
+- [X] Approach 4 to improve performance
+- [X] *Distributed* Computation
+- [X] Needs & Suitability
+- [X] Pros and Cons
+- [X] Limitations
+- [X] Distributed Computation and other non-functional requirements

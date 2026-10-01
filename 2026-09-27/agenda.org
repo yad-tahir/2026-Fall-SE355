@@ -1,0 +1,9 @@
+* Networking requirements in Distributed System
+[Ajay] Chapter 1
+
+- [X] Recap the last lecture
+- [X] Distributed Systems and Networking
+- [X] The requirements
+- [X] OSI
+- [X] Connection Channels
+- [X] Network Protocols
