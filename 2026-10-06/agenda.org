@@ -1,0 +1,6 @@
+* Network Programming - Part 3
+[Elliotte] Chapter 3
+
+- [X] Sending/Receiving Complex data types
+- [X] DataInputStream and DataOutputStream
+- [X] ObjectInputStream and ObjectOutputStream
