@@ -1,0 +1,8 @@
+* Network Programming - Part 4
+[Elliotte] Chapter 3
+
+- [X] Build Demo Application: Client and Server Sides
+- [X] ObjectInputStream and ObjectOutputStream in action
+- [X] How to *engineer* it properly.
+- [X] Remote Procedure Calls (RPCs)
+- [X] Informal introduction to *Causality*
