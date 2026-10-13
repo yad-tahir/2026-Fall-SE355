@@ -1,0 +1,11 @@
+* Order Theory 101
+[Ajay] Chapter 2
+
+- [X] Recap
+- [X] Modeling distributed systems
+- [X] What is an order?
+- [X] Transitivity
+- [X] Reflexivity
+- [X] Symmetry
+- [X] Partial Order and Total Order
+- [X] Strict Partial Order and Strict Total Order
