@@ -1,0 +1,9 @@
+* Causality - Part 2
+[Ajay] Chapter 2
+
+- [X] Recap
+- [X] Causality from the perspective of one event
+- [X] Optimization opportunities
+- [X] Event-driven programming
+- [X] Code example
+- [X] Snapshots of the global state
