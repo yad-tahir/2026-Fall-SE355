@@ -1,0 +1,9 @@
+* Delivery Policies - Part 2
+[Ajay] Chapter 6
+
+- [X] Recap Part 1
+- [X] LIFO delivery policy
+- [X] Check whether FIFO and LIFO address the WhatsApp application problem
+- [X] Causal Order delivery policy
+- [X] Causal Order delivery vs FIFO
+- [X] Causal Order delivery implementation
